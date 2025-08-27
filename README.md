@@ -11,3 +11,15 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 - Each solution is organized by **problem number and name**.
 - Solutions are written mainly in **C++** (may include Python/Java later).
 - Well-commented for clarity and understanding.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
