@@ -37,4 +37,8 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
