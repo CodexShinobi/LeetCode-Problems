@@ -22,6 +22,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0027-remove-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0015-3sum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0056-merge-intervals) |
 ## Matrix
 |  |
 | ------- |
