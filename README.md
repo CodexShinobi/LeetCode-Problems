@@ -47,10 +47,12 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0062-unique-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0062-unique-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -59,4 +61,8 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
