@@ -36,6 +36,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | ------- |
 | [0015-3sum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
@@ -89,4 +90,8 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
