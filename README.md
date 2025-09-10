@@ -85,12 +85,14 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0100-same-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -102,6 +104,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0100-same-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## String
 |  |
 | ------- |
