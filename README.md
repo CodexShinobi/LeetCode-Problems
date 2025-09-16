@@ -64,6 +64,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | ------- |
 | [0055-jump-game](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [0091-decode-ways](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0091-decode-ways) |
 ## Greedy
 |  |
 | ------- |
@@ -115,6 +116,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
