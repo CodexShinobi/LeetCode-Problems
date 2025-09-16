@@ -119,6 +119,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0091-decode-ways](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,4 +145,8 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3811-reverse-degree-of-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
