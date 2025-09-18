@@ -61,6 +61,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0009-palindrome-number](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +120,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -139,6 +141,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
@@ -152,6 +155,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Union Find
 |  |
