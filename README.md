@@ -29,6 +29,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0162-find-peak-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0948-sort-an-array) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0073-set-matrix-zeroes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -51,6 +53,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0015-3sum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0948-sort-an-array) |
 ## Matrix
 |  |
