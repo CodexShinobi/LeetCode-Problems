@@ -35,6 +35,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0724-find-pivot-index](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/1217-relative-sort-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0217-contains-duplicate](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1217-relative-sort-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/1217-relative-sort-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -203,4 +205,8 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0724-find-pivot-index) |
+## Sliding Window
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
