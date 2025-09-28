@@ -38,6 +38,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0724-find-pivot-index](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/1217-relative-sort-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0451-sort-characters-by-frequency](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/1217-relative-sort-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
@@ -104,6 +106,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Combinatorics
 |  |
 | ------- |
