@@ -18,6 +18,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -58,6 +59,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
@@ -99,6 +101,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
