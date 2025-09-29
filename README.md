@@ -46,6 +46,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0169-majority-element) |
@@ -155,6 +156,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
@@ -237,6 +239,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Queue
