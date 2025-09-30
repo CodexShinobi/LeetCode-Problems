@@ -88,6 +88,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0062-unique-paths) |
@@ -121,6 +122,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 ## Tree
 |  |
@@ -251,4 +253,8 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
