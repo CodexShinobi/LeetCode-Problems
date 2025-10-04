@@ -37,6 +37,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0217-contains-duplicate](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0498-diagonal-traverse](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0724-find-pivot-index) |
@@ -91,6 +92,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0073-set-matrix-zeroes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +213,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [3811-reverse-degree-of-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Union Find
 |  |
