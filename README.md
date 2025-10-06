@@ -72,6 +72,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0125-valid-palindrome](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
@@ -138,6 +139,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0002-add-two-numbers](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
@@ -198,6 +200,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
@@ -276,5 +279,6 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
