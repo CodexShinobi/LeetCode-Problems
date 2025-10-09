@@ -181,6 +181,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
@@ -205,6 +206,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
