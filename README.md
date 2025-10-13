@@ -31,6 +31,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0073-set-matrix-zeroes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0134-gas-station](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0162-find-peak-element) |
@@ -56,6 +57,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0001-two-sum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0169-majority-element) |
@@ -155,6 +157,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0100-same-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -177,6 +180,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0100-same-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -196,6 +200,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
