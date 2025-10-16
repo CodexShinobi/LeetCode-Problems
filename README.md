@@ -66,7 +66,6 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0217-contains-duplicate](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
-| [0424-longest-repeating-character-replacement](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1217-relative-sort-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/1217-relative-sort-array) |
@@ -199,7 +198,6 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0091-decode-ways](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
-| [0424-longest-repeating-character-replacement](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [3811-reverse-degree-of-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
@@ -289,7 +287,6 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
-| [0424-longest-repeating-character-replacement](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Queue
 |  |
