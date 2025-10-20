@@ -118,6 +118,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0062-unique-paths](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0539-minimum-time-difference](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 ## Dynamic Programming
@@ -125,6 +126,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | ------- |
 | [0055-jump-game](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0091-decode-ways) |
 ## Greedy
 |  |
@@ -303,4 +305,8 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0002-add-two-numbers](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
