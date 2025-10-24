@@ -24,6 +24,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0027-remove-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0055-jump-game) |
@@ -78,6 +79,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0011-container-with-most-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -125,6 +127,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0070-climbing-stairs) |
@@ -224,6 +227,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
@@ -315,4 +319,8 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
