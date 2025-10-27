@@ -12,13 +12,11 @@ public:
             }
         }
 
-        // Step 2: If no such index found, reverse the entire array
+        
         if (ind == -1) {
             reverse(A.begin(), A.end());
             return;
         }
-
-        // Step 3: Find the smallest number larger than A[ind] from the right side
         for (int i = n - 1; i > ind; i--) {
             if (A[i] > A[ind]) {
                 swap(A[i], A[ind]);
