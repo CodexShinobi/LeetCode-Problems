@@ -27,6 +27,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0035-search-insert-position](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0056-merge-intervals) |
@@ -130,6 +131,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0070-climbing-stairs) |
@@ -214,6 +216,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
