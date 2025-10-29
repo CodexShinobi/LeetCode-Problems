@@ -207,6 +207,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0014-longest-common-prefix](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -234,6 +235,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
