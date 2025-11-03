@@ -42,6 +42,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0162-find-peak-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0217-contains-duplicate) |
@@ -136,6 +137,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0062-unique-paths](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0091-decode-ways) |
+| [0198-house-robber](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
