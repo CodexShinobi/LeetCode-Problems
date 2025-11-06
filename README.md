@@ -225,6 +225,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0053-maximum-subarray](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0948-sort-an-array) |
@@ -249,6 +250,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
