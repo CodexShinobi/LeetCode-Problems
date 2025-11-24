@@ -73,6 +73,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0387-first-unique-character-in-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0767-reorganize-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [1217-relative-sort-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -101,6 +102,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0347-top-k-frequent-elements](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
+| [0767-reorganize-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0948-sort-an-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -144,6 +146,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0011-container-with-most-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0134-gas-station) |
+| [0767-reorganize-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0767-reorganize-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -218,6 +221,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0387-first-unique-character-in-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
+| [0767-reorganize-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
@@ -236,6 +240,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0347-top-k-frequent-elements](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0767-reorganize-string) |
 ## Stack
 |  |
 | ------- |
@@ -281,6 +286,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0239-sliding-window-maximum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0767-reorganize-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0948-sort-an-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
