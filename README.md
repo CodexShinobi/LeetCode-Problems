@@ -38,6 +38,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0075-sort-colors](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0162-find-peak-element) |
@@ -143,6 +144,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0062-unique-paths](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Greedy
