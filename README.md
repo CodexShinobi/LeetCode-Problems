@@ -178,6 +178,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0141-linked-list-cycle](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
@@ -339,6 +340,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
