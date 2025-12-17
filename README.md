@@ -71,6 +71,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0142-linked-list-cycle-ii](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -103,6 +104,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0169-majority-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
@@ -226,6 +228,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0071-simplify-path](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
