@@ -240,6 +240,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0451-sort-characters-by-frequency](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0767-reorganize-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
@@ -366,4 +367,8 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
