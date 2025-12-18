@@ -27,6 +27,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0035-search-insert-position](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0055-jump-game) |
@@ -64,6 +65,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | ------- |
 | [0001-two-sum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
@@ -100,6 +102,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0015-3sum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0169-majority-element) |
@@ -227,6 +230,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0005-longest-palindromic-substring](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0091-decode-ways) |
