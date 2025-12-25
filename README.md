@@ -51,6 +51,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0217-contains-duplicate](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +79,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0347-top-k-frequent-elements](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [1217-relative-sort-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/1217-relative-sort-array) |
@@ -276,6 +278,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0143-reorder-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -373,6 +376,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
 | ------- |
