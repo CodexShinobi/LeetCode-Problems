@@ -277,6 +277,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0094-binary-tree-inorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
@@ -381,4 +382,8 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0796-rotate-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
