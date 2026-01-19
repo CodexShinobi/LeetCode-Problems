@@ -38,6 +38,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0074-search-a-2d-matrix](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0134-gas-station) |
@@ -130,6 +131,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0059-spiral-matrix-ii](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 ## Math
@@ -156,6 +158,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0055-jump-game](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0198-house-robber) |
@@ -277,6 +280,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0032-longest-valid-parentheses](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -380,6 +384,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
