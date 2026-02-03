@@ -204,6 +204,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0094-binary-tree-inorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0113-path-sum-ii) |
@@ -233,6 +234,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0094-binary-tree-inorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0113-path-sum-ii) |
@@ -303,6 +305,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0200-number-of-islands) |
 ## Queue
