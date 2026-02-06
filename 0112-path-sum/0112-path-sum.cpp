@@ -1,22 +1,35 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    bool hasPathSum(TreeNode* root, int targetSum) {
-        // Empty tree: no path
-        if (root == nullptr) {
+   bool solve(TreeNode* root,int targetSum,int sum){
+        if(root==NULL){
             return false;
         }
-        
-        // Leaf node: check if this node's value equals remaining target
-        if (root->left == nullptr && root->right == nullptr) {
-            return root->val == targetSum;
+            sum+= root->val;
+
+        if(root->left==NULL && root->right==NULL){
+            if(sum == targetSum)
+            return true;
+            else
+            return false;
         }
-        
-        // Recurse on children with updated target (subtract current val)
-        int remaining = targetSum - root->val;
-        bool leftPath = hasPathSum(root->left, remaining);
-        bool rightPath = hasPathSum(root->right, remaining);
-        
-        // True if ANY child path works
-        return leftPath || rightPath;
+        bool  leftAns=solve(root->left,targetSum,sum);
+        bool  rightAns=solve(root->right,targetSum,sum);
+        return leftAns||rightAns;
     }
+     bool hasPathSum(TreeNode* root, int targetSum) {
+        int sum=0;
+        bool ans=solve(root,targetSum,sum);
+        return ans;
+     }
 };
