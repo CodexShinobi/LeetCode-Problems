@@ -4,18 +4,14 @@ public:
         if(nums.empty())
         return 0;
 
-        vector<int> temp;
-
-        temp.push_back(nums[0]);
-        for(int i=1;i<nums.size();i++){
-            if(nums[i]!=nums[i-1]){
-                temp.push_back(nums[i]);
+        int i=0;
+        for(int j =1;j<nums.size();j++){
+            if(nums[i]!=nums[j]){
+                i++;
+                nums[i]=nums[j];
             }
         }
-        for(int i=0;i<temp.size();i++){
-            nums[i]=temp[i];
-        }
-        return temp.size();
         
+        return i+1;
     }
 };
