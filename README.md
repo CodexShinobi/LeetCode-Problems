@@ -62,6 +62,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [1217-relative-sort-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1480-running-sum-of-1d-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1929-concatenation-of-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -327,6 +328,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0059-spiral-matrix-ii](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
+| [1929-concatenation-of-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Union Find
 |  |
