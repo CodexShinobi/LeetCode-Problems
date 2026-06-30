@@ -53,6 +53,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 | [0217-contains-duplicate](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
@@ -367,6 +368,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -416,6 +418,7 @@ The goal is to practice **data structures, algorithms, and problem-solving skill
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/CodexShinobi/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 ## Database
 |  |
 | ------- |
