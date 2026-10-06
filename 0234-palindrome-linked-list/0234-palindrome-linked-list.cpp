@@ -1,61 +1,52 @@
-// class Solution {
-// public:
-//     bool isPalindrome(ListNode* head) {
-//         vector<int> vals;
-//         while (head) {
-//             vals.push_back(head->val);
-//             head = head->next;
-//         }
-//         int i = 0, j = vals.size() - 1;
-//         while (i < j) {
-//             if (vals[i++] != vals[j--]) return false;
-//         }
-//         return true;
-//     }
-// };
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
-public:
-    ListNode* reverseList(ListNode* head) {
+private:
+    ListNode* reverse(ListNode* head) {
         ListNode* prev = nullptr;
         while (head) {
-            ListNode* next = head->next;
+            ListNode* nextNode = head->next;
             head->next = prev;
             prev = head;
-            head = next;
+            head = nextNode;
         }
         return prev;
     }
 
+public:
     bool isPalindrome(ListNode* head) {
         if (!head || !head->next) return true;
-        
-        // Step 1: Find middle
+
         ListNode* slow = head;
         ListNode* fast = head;
+
+        // 1) find middle
         while (fast->next && fast->next->next) {
             slow = slow->next;
             fast = fast->next->next;
         }
 
-        // Step 2: Reverse second half
-        ListNode* second = reverseList(slow->next);
-        ListNode* first = head;
+        // 2) reverse second half
+        slow->next = reverse(slow->next);
 
-        // Step 3: Compare halves
-        ListNode* copySecond = second; // to restore later if needed
-        bool isPalin = true;
+        // 3) compare halves
+        ListNode* first = head;
+        ListNode* second = slow->next;
+
         while (second) {
-            if (first->val != second->val) {
-                isPalin = false;
-                break;
-            }
+            if (first->val != second->val) return false;
             first = first->next;
             second = second->next;
         }
 
-        // Step 4: Restore the list (optional)
-        slow->next = reverseList(copySecond);
-
-        return isPalin;
+        return true;
     }
 };
